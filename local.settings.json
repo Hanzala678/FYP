@@ -1,0 +1,16 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "AzureWebJobsStorage": "DefaultEndpointsProtocol=https;AccountName=cep8e32;AccountKey=tVkiWXcv2QXBgGYWzrfkP6m0p6KaUPCOfbb7wfgQj+nRw4iwy9LVeiIRLAolv80rCYpZK+kt4j5G+AStZr9AoA==;EndpointSuffix=core.windows.net",
+    "FUNCTIONS_WORKER_RUNTIME": "python",
+    "AzureWebJobsFeatureFlags": "EnableWorkerIndexing",
+    "api_key": "54fefcbab9be4cf289b871dc26b2000e",
+    "api_base": "https://cispedia-openai.openai.azure.com/",
+    "embeddings_model_name": "embeddings",
+    "chat_model_name": "chat",
+    "FUNCTIONS_EXTENSION_VERSION": "~4",
+    "APPLICATIONINSIGHTS_CONNECTION_STRING": "InstrumentationKey=685506e6-3f83-4414-8a27-4bd0ec5d42ad;IngestionEndpoint=https://eastus-8.in.applicationinsights.azure.com/;LiveEndpoint=https://eastus.livediagnostics.monitor.azure.com/;ApplicationId=03068cb7-70d8-4134-8e9a-b33715327968",
+    "WEBSITE_CONTENTAZUREFILECONNECTIONSTRING": "DefaultEndpointsProtocol=https;AccountName=cep8e32;AccountKey=tVkiWXcv2QXBgGYWzrfkP6m0p6KaUPCOfbb7wfgQj+nRw4iwy9LVeiIRLAolv80rCYpZK+kt4j5G+AStZr9AoA==;EndpointSuffix=core.windows.net",
+    "WEBSITE_CONTENTSHARE": "cispedia-chatbot-funca0a9"
+  }
+}
